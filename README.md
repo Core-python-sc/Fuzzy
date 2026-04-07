@@ -70,6 +70,7 @@ Supp(A) = { a, c }
 ✔ Only elements with membership values greater than zero are included.
 
 ---
+#### Source code : https://github.com/Core-python-sc/Fuzzy/blob/main/01_Support_crispy.py
 
 
 
