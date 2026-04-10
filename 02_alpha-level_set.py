@@ -8,8 +8,8 @@ class Alpha_cut:
   def create_fuzzy(self):
     # Method to create the fuzzy set by taking input from the user
     for i in range(self.no):
-      ele: str = input("Enter the element")  # Input for element name
-      membership: float = float(input("Enter the membership value:"))  # Input for membership value as float
+      ele: str = input("Enter the element: ")  # Input for element name
+      membership: float = float(input("Enter the membership value: "))  # Input for membership value as float
 
       try:
         if 0 <= membership <= 1:  # Validate that membership value is between 0 and 1
@@ -53,7 +53,7 @@ class Alpha_cut:
       print("Alpha-cut fuzzy set:")
       print("No data!!")
       return
-    print("Alpha-cut fuzzy set:")
+    print("\nAlpha-cut fuzzy set:")
     print("{", end="")
     for key, value in self.alpha_cut.items():
       # Iterate and print alpha-cut set elements and their membership values
