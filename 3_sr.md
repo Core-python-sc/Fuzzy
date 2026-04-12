@@ -49,6 +49,10 @@ It is obtained by dividing the scalar cardinality by the total number of element
 
 ---
 
+<img width="1068" height="1212" alt="image" src="https://github.com/user-attachments/assets/034ec9a3-7c41-41a2-bb66-56d859a0ead3" />
+
+---
+
 ## 🚀 Author
 
 Subham Chakraborty
